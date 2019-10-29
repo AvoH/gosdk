@@ -2,6 +2,6 @@ package translator
 
 import "github.com/AvoH/gosdk/runtime"
 
-func translate() string {
+func Translate() string {
 	return "Translated " + runtime.Hello()
 }
