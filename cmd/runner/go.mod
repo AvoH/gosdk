@@ -2,4 +2,4 @@ module github.com/AvoH/gosdk/cmd/runner
 
 go 1.13
 
-require v0.0.0-20191029015045-f4bc38a4df00
+require github.com/AvoH/gosdk/converter v0.0.0-20191029031902-f19982ef287e
