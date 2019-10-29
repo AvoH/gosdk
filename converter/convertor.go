@@ -1,4 +1,4 @@
-package somemodule
+package converter
 
 import "github.com/AvoH/gosdk/runtime"
 

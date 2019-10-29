@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/AvoH/gosdk/somemodule"
+	"github.com/AvoH/gosdk/converter"
 )
 func main() {
-	fmt.Println(somemodule.Convert())
+	fmt.Println(converter.Convert())
 }
