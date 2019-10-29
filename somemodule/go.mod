@@ -1,4 +1,4 @@
-module github.com/AvoH/gosdk/somemodule
+module github.com/AvoH/gosdk/converter
 
 go 1.13
 
