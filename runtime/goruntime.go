@@ -1,5 +1,5 @@
 package runtime
 
-func Hello() string {
-	return "Hello from version 0.1.1!"
+func HelloV2() string {
+	return "Hello from version 2.0.0!"
 }
