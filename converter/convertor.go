@@ -3,5 +3,5 @@ package converter
 import "github.com/AvoH/gosdk/runtime"
 
 func Convert() string {
-	return "Converted " + runtime.Hello()
-}
+	return "Converted " + runtime.HelloV2()
+}1

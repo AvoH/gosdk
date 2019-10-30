@@ -5,3 +5,5 @@ github.com/AvoH/gosdk/runtime v0.1.0 h1:dkqehCpVJan0dCZRfvrxinC2nNGlf1B7UtvQgBGM
 github.com/AvoH/gosdk/runtime v0.1.0/go.mod h1:lPKuBR758fTvp+t/DGlXAIEJeF7moiqzOQaay1mezjU=
 github.com/AvoH/gosdk/runtime v0.1.1 h1:quJ2pyI3DkRZLHFWch7d9oaAZio2KTqIKtE1i3vf+rQ=
 github.com/AvoH/gosdk/runtime v0.1.1/go.mod h1:lPKuBR758fTvp+t/DGlXAIEJeF7moiqzOQaay1mezjU=
+github.com/AvoH/gosdk/runtime/v2 v2.0.1 h1:Mo/jNfF11wRpaQq9kf396pDbhQrig4R9wAMfh9G0+I0=
+github.com/AvoH/gosdk/runtime/v2 v2.0.1/go.mod h1:UvTl5skn1Qwkr3rX9UvXGk3ktFJ8jEWml/p7F35lj88=
