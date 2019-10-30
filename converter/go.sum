@@ -1,4 +1,5 @@
 github.com/AvoH/gosdk v0.0.0-20191029015045-f4bc38a4df00 h1:nFeeT6v4L2OOmUkbMqpfULytmKWQRVaaVG7+1rYtQNY=
+github.com/AvoH/gosdk v0.0.0-20191029170145-20f776f91002 h1:PSSDilabqyaiD0R0R8/SmOym+m9w5yw0tbMQhycMcGU=
 github.com/AvoH/gosdk/runtime v0.0.0-20191029015045-f4bc38a4df00 h1:dR0eMhRMbtQaVL/iTucaEfwygASaAhvqbOde2gTxR74=
 github.com/AvoH/gosdk/runtime v0.0.0-20191029015045-f4bc38a4df00/go.mod h1:lPKuBR758fTvp+t/DGlXAIEJeF7moiqzOQaay1mezjU=
 github.com/AvoH/gosdk/runtime v0.1.0 h1:dkqehCpVJan0dCZRfvrxinC2nNGlf1B7UtvQgBGMdTs=
